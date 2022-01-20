@@ -1,0 +1,9 @@
+dog
+cat
+elephant
+dog
+mouse
+mouse
+lion
+lion
+tiger

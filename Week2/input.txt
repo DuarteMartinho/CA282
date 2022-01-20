@@ -1,0 +1,4 @@
+/etc/passwd
+/etc/fstab
+/etc
+/etc/motd
